@@ -11,6 +11,8 @@ import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.ImageView;
 
+// 은솔이바보
+
 public class MainActivity extends AppCompatActivity {
 
     ImageView imgView;
